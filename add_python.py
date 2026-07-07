@@ -85,11 +85,45 @@ def create_solution_file(problem_title: str, topic: str, url: str, code: str) ->
     return file_path
 
 
+def has_header(lines: list) -> bool:
+    """
+    Check if README has the proper header row.
+    
+    Args:
+        lines: List of lines from README
+        
+    Returns:
+        True if header row exists, False otherwise
+    """
+    if len(lines) < 3:
+        return False
+    # Check if the header row contains column names
+    header_line = lines[2].strip()
+    return "Problem" in header_line and "Link" in header_line and "Topic" in header_line
+
+
 def initialize_readme() -> None:
-    """Initialize README.md if it doesn't exist."""
+    """
+    Initialize README.md with headers if it doesn't exist or is missing headers.
+    """
     if not os.path.exists(README_FILE):
         with open(README_FILE, "w", encoding=ENCODING) as f:
             f.write(README_HEADER)
+    else:
+        # Check if existing README has the header
+        with open(README_FILE, "r", encoding=ENCODING) as f:
+            lines = f.readlines()
+        
+        # If file doesn't have proper headers, add them
+        if not has_header(lines):
+            # Reconstruct file with header
+            with open(README_FILE, "w", encoding=ENCODING) as f:
+                # Write the header
+                f.write(README_HEADER)
+                # Write back existing content if any (skip empty lines)
+                for line in lines:
+                    if line.strip() and not line.startswith("#  DSA Solutions"):
+                        f.write(line)
 
 
 def get_problem_count() -> int:
