@@ -11,3 +11,4 @@
 | 7 | Nth Node from End | [Link](https://www.datapathsala.com/dsa/nth-from-end?difficulty=basic) | Linked list | [NthNodefromEnd.py](src/linked list/NthNodefromEnd.py) |
 | 8 | Count Words in a String | [Link](https://www.datapathsala.com/dsa/count-words) | Strings | [CountWordsinaString.py](src/strings/CountWordsinaString.py) |
 | 9 | Delete First Node with given Value | [Link](https://www.datapathsala.com/dsa/delete-node-by-value?difficulty=basic) | Linked list | [DeleteFirstNodewithgivenValue.py](src/linked list/DeleteFirstNodewithgivenValue.py) |
+| 10 | Remove Duplicate from Sorted Linked List | [Link](https://www.datapathsala.com/dsa/remove-duplicates-sorted-list?difficulty=basic) | Linked list | [RemoveDuplicatefromSortedLinkedList.py](src/linked list/RemoveDuplicatefromSortedLinkedList.py) |
