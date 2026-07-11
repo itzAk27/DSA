@@ -10,3 +10,4 @@
 | 6 | Length of Linked List | [Link](https://www.datapathsala.com/dsa/linked-list-length?difficulty=basic) | Linked list | [LengthofLinkedList.py](src/linked list/LengthofLinkedList.py) |
 | 7 | Nth Node from End | [Link](https://www.datapathsala.com/dsa/nth-from-end?difficulty=basic) | Linked list | [NthNodefromEnd.py](src/linked list/NthNodefromEnd.py) |
 | 8 | Count Words in a String | [Link](https://www.datapathsala.com/dsa/count-words) | Strings | [CountWordsinaString.py](src/strings/CountWordsinaString.py) |
+| 9 | Delete First Node with given Value | [Link](https://www.datapathsala.com/dsa/delete-node-by-value?difficulty=basic) | Linked list | [DeleteFirstNodewithgivenValue.py](src/linked list/DeleteFirstNodewithgivenValue.py) |
