@@ -14,3 +14,4 @@
 | 10 | Remove Duplicate from Sorted Linked List | [Link](https://www.datapathsala.com/dsa/remove-duplicates-sorted-list?difficulty=basic) | Linked list | [RemoveDuplicatefromSortedLinkedList.py](src/linked list/RemoveDuplicatefromSortedLinkedList.py) |
 | 11 | Linked List Cycle | [Link](https://leetcode.com/problems/linked-list-cycle/description/) | Linked list | [LinkedListCycle.py](src/linked list/LinkedListCycle.py) |
 | 12 | Find the duplicate in array | [Link](https://www.datapathsala.com/dsa/find-duplicate-basic) | Arrays | [Findtheduplicateinarray.py](src/arrays/Findtheduplicateinarray.py) |
+| 13 | Max Consecutive Ones | [Link](https://www.datapathsala.com/dsa/max-consecutive-ones) | Arrays | [MaxConsecutiveOnes.py](src/arrays/MaxConsecutiveOnes.py) |
