@@ -18,3 +18,4 @@
 | 14 | Check String is rotated | [Link](https://www.datapathsala.com/dsa/is-rotation-string) | Strings | [CheckStringisrotated.py](src/strings/CheckStringisrotated.py) |
 | 15 | Find smallest largest second smallest and largest element in array | [Link](https://www.datapathsala.com/dsa/find-second-largest) | Arrays | [Findsmallestlargestsecondsmallestandlargestelementinarray.py](src/arrays/Findsmallestlargestsecondsmallestandlargestelementinarray.py) |
 | 16 | Subsequence String | [Link](https://www.datapathsala.com/dsa/is-subsequence-basic) | Strings | [SubsequenceString.py](src/strings/SubsequenceString.py) |
+| 17 | Balanced Parentheses | [Link](https://datapathsala.com/dsa/check-balanced-parens) | Strings | [BalancedParentheses.py](src/strings/BalancedParentheses.py) |
