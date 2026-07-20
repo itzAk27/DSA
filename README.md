@@ -20,3 +20,4 @@
 | 16 | Subsequence String | [Link](https://www.datapathsala.com/dsa/is-subsequence-basic) | Strings | [SubsequenceString.py](src/strings/SubsequenceString.py) |
 | 17 | Balanced Parentheses | [Link](https://datapathsala.com/dsa/check-balanced-parens) | Strings | [BalancedParentheses.py](src/strings/BalancedParentheses.py) |
 | 18 | String Compression | [Link](https://datapathsala.com/dsa/basic-string-compression) | Strings | [StringCompression.py](src/strings/StringCompression.py) |
+| 19 | Move Zeroes | [Link](https://datapathsala.com/dsa/move-zeroes) | Arrays | [MoveZeroes.py](src/arrays/MoveZeroes.py) |
