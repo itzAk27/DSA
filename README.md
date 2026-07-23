@@ -21,3 +21,4 @@
 | 17 | Balanced Parentheses | [Link](https://datapathsala.com/dsa/check-balanced-parens) | Strings | [BalancedParentheses.py](src/strings/BalancedParentheses.py) |
 | 18 | String Compression | [Link](https://datapathsala.com/dsa/basic-string-compression) | Strings | [StringCompression.py](src/strings/StringCompression.py) |
 | 19 | Move Zeroes | [Link](https://datapathsala.com/dsa/move-zeroes) | Arrays | [MoveZeroes.py](src/arrays/MoveZeroes.py) |
+| 20 | Plus One | [Link](https://datapathsala.com/dsa/plus-one) | Arrays | [PlusOne.py](src/arrays/PlusOne.py) |
